@@ -1,1 +1,0 @@
-Print("Kay Bon Venon! lostali khoonji")
