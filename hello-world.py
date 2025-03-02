@@ -1,5 +1,5 @@
 print ("Hello Hello Gila")
-print ("Chimchome chim chome")
+print ("Chimchomssse chim chome")
 
 # lomoo dANKENSAS?
 MONA UNO sipendo. 
