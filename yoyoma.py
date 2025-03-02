@@ -1,1 +1,1 @@
-Print("Kay Bon Venon!")
+Print("Kay Bon Venon! lostali khoonji")
